@@ -1,0 +1,2 @@
+# LifePlanSimulator
+ライフプランと将来資産をシミュレーションするWindows向け無料アプリ
