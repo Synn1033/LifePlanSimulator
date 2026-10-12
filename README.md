@@ -41,7 +41,11 @@
 
 ## ダウンロード・起動方法
 
-Ver.0.1のWindows向け配布ZIPは、GitHubの「Releases（リリース）」からダウンロードできるようにする予定です。
+Windows向けVer.0.1（試験公開版）は、以下のページから無料でダウンロードできます。
+
+**[Ver.0.1（試験公開版）をダウンロード](https://github.com/Synn1033/LifePlanSimulator/releases/tag/v0.1.0)**
+
+ページ下部の「Assets」から `LifePlanSimulator-Ver0.1-Windows-x64.zip` をダウンロードしてください。
 
 公開後は、ZIPファイルを展開し、フォルダー内の `LifePlanSimulator.exe` を起動してください。
 
