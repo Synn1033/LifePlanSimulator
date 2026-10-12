@@ -25,19 +25,19 @@
 
 現在の資産と、注目しているライフプランの将来予測を確認できます。
 
-![ホーム画面](screenshots/home.png)
+![ホーム画面](images/home.png)
 
 ### 将来予測
 
 現金・預金と投資資産の内訳を、年齢に沿って確認できます。
 
-![将来予測画面](screenshots/asset-forecast.png)
+![将来予測画面](images/asset-forecast.png)
 
 ### プラン比較
 
 基本プラン（月5万円の積立）と、積立額を月8万円・月10万円に変更したプランを比較した例です。
 
-![プラン比較画面](screenshots/plan-comparison.png)
+![プラン比較画面](images/plan-comparison.png)
 
 ## ダウンロード・起動方法
 
